@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is B288-FE6F
+
+ Directory of D:\Data\Jaffar Ali\Desktop\Gits Data\second
+
+25/11/2022  09:43 am    <DIR>          .
+25/11/2022  09:43 am    <DIR>          ..
+25/11/2022  09:43 am                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  287,909,756,928 bytes free
